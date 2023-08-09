@@ -1,36 +1,63 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# My Next.js Project
 
-## Getting Started
+Welcome to My Next.js Project! This README provides an overview of the folder structure used in the project.
 
-First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+## Folder Descriptions
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+1. `components/`: This folder contains reusable React components that you can use throughout your Next.js application.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+2. `pages/`: This folder contains the main pages of your application, including the landing page (`index.js`). You can also customize the `_app.js` file to set up global styles and layout components.
 
-[http://localhost:3000/api/hello](http://localhost:3000/api/hello) is an endpoint that uses [Route Handlers](https://beta.nextjs.org/docs/routing/route-handlers). This endpoint can be edited in `app/api/hello/route.js`.
+3. `styles/`: This folder manages the styles for your application. It includes global styles (`globals.css`), Tailwind CSS configuration (`tailwind.css`), and other application-specific styles.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+4. `public/`: This folder holds static assets like images, fonts, and other files that are directly accessible by the browser.
 
-## Learn More
+5. `package.json`: The configuration file that lists dependencies and scripts for your project.
 
-To learn more about Next.js, take a look at the following resources:
+6. `README.md`: You are currently reading this file, which provides project information and instructions.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Folder Structure
 
-## Deploy on Vercel
+my-nextjs-project/
+├── components/
+│ └── Accordion.js
+│ - Reusable component for displaying accordion sections.
+├── pages/
+│ ├── index.js
+│ │ - Main landing page of the application.
+│ └── _app.js
+│ - Customization of the Next.js App component.
+├── styles/
+│ ├── globals.css
+│ │ - Global styles applied to the entire application.
+│ ├── tailwind.css
+│ │ - Configuration and import of Tailwind CSS styles.
+│ └── ...
+│ - Additional styles specific to the application.
+├── public/
+│ ├── images/
+│ │ └── ...
+│ │ - Static image files used in the application.
+│ └── ...
+│ - Other static assets like fonts, icons, etc.
+├── package.json
+│ - Configuration file specifying project dependencies and scripts.
+└── README.md
+- Documentation providing project information and instructions.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+For running the project:
+
+1. Clone this repository.
+2. Install project dependencies using `npm install`.
+3. Start the development server using `npm run dev`.
+4. Open your browser and navigate to `http://localhost:3000`.
+5. Explore and enjoy your Next.js project
+# assignment-10-nextjs-with-prisma-Basic
+# assignment-10-nextjs-with-prisma-Basic
+# assignment-10-nextjs-with-prisma-Basic
+# assignment-10-nextjs-with-prisma-Basic

@@ -4,6 +4,7 @@
 /node_modules
 /.pnp
 .pnp.js
+/Module-10 NextJS/next-app/
 
 # testing
 /coverage
