@@ -1,32 +1,5 @@
 Folder Structure:
 
-my-nextjs-project/
-├── components/
-│   └── Accordion.js
-│       - Reusable component for displaying accordion sections.
-├── pages/
-│   ├── index.js
-│   │   - Main landing page of the application.
-│   └── _app.js
-│       - Customization of the Next.js App component.
-├── styles/
-│   ├── globals.css
-│   │   - Global styles applied to the entire application.
-│   ├── tailwind.css
-│   │   - Configuration and import of Tailwind CSS styles.
-│   └── ...
-│       - Additional styles specific to the application.
-├── public/
-│   ├── images/
-│   │   └── ...
-│   │       - Static image files used in the application.
-│   └── ...
-│       - Other static assets like fonts, icons, etc.
-├── package.json
-│   - Configuration file specifying project dependencies and scripts.
-└── README.md
-    - Documentation providing project information and instructions.
-
 
 Folder Descriptions:
 
