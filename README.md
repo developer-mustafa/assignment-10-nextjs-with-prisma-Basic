@@ -61,3 +61,4 @@ For running the project:
 # assignment-10-nextjs-with-prisma-Basic
 # assignment-10-nextjs-with-prisma-Basic
 # assignment-10-nextjs-with-prisma-Basic
+# assignment-10-nextjs-with-prisma-Basic
