@@ -27,7 +27,3 @@ For running the project:
 4. Open your browser and navigate to `http://localhost:3000`.
 5. Explore and enjoy your Next.js project
 # assignment-10-nextjs-with-prisma-Basic
-# assignment-10-nextjs-with-prisma-Basic
-# assignment-10-nextjs-with-prisma-Basic
-# assignment-10-nextjs-with-prisma-Basic
-# assignment-10-nextjs-with-prisma-Basic
