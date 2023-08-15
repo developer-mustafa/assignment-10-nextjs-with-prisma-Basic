@@ -4,7 +4,7 @@ const loading = () => {
 
   return (
     <div>
-      <h2>loading...</h2>
+      <h2 className='text-center text-5xl text-blue-500'>loading...</h2>
     </div>
   );
 };

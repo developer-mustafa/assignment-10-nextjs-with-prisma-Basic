@@ -9,7 +9,7 @@ const Accordion = ({ title, content }) => {
   };
 
   return (
-    <div className="w-full max-w-lg mx-auto my-4 rounded-lg overflow-hidden shadow-lg bg-gray-900">
+    <div className="w-10/12 mx-auto justify-center max-w-lg  my-4 rounded-lg overflow-hidden shadow-lg bg-gray-900">
       <div
         className="flex items-center justify-between bg-blue-500 p-4 cursor-pointer transition-colors duration-300"
         onClick={toggleAccordion}
@@ -34,7 +34,6 @@ const Accordion = ({ title, content }) => {
           <p className="text-gray-700 dark:text-gray-300">{content}</p>
         </div>
       )}
-   
     </div>
   );
 };

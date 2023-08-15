@@ -1,6 +1,6 @@
 # My Next.js Project
 
-Welcome to My Next.js Project! This README provides an overview of the folder structure used in the project.
+Welcome to My Next.js Project by Mustafa Rahman! This README provides an overview of the folder structure used in the project.
 
 
 ## Folder Descriptions
@@ -16,37 +16,6 @@ Welcome to My Next.js Project! This README provides an overview of the folder st
 5. `package.json`: The configuration file that lists dependencies and scripts for your project.
 
 6. `README.md`: You are currently reading this file, which provides project information and instructions.
-
-
-## Folder Structure
-
-my-nextjs-project/
-├── components/
-│ └── Accordion.js
-│ - Reusable component for displaying accordion sections.
-├── pages/
-│ ├── index.js
-│ │ - Main landing page of the application.
-│ └── _app.js
-│ - Customization of the Next.js App component.
-├── styles/
-│ ├── globals.css
-│ │ - Global styles applied to the entire application.
-│ ├── tailwind.css
-│ │ - Configuration and import of Tailwind CSS styles.
-│ └── ...
-│ - Additional styles specific to the application.
-├── public/
-│ ├── images/
-│ │ └── ...
-│ │ - Static image files used in the application.
-│ └── ...
-│ - Other static assets like fonts, icons, etc.
-├── package.json
-│ - Configuration file specifying project dependencies and scripts.
-└── README.md
-- Documentation providing project information and instructions.
-
 
 
 

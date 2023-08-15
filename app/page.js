@@ -3,7 +3,7 @@ import Accordion from "./components/Accordion.js";
 
 const Home = () => {
   return (
-    <div className="bg-gray-900">
+    <div className="bg-gray-900 mx-auto ">
       
 
         <h1 className="text-center font-bold p-4 text-3xl text-red-500"> NextJS <span className="text-blue-400"> Main Features </span></h1>
